@@ -1,0 +1,14 @@
+! Title: alt right filter list
+! Expires: 3 days
+! Last modified: 22 October 2019
+! Homepage: https://github.com/lukkan99/alt-right-filter-list
+! Contribute: https://github.com/lukkan99/alt-right-filter-list/issues
+! License: https://github.com/lukkan99/alt-right-filter-list/LICENSE
+
+# WARNING: Sites listed below can be hateful.
+
+# iploggers
+
+# Main: alt right
+||gab.com^$important
+||saidit.net^$important
