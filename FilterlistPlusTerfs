@@ -1,6 +1,6 @@
 ! Title: alt right filter list + terfs
 ! Expires: 3 days
-! Last modified: 24 October 2019
+! Last modified: 27 October 2019
 ! Homepage: https://github.com/lukkan99/alt-right-filter-list
 ! Contribute: https://github.com/lukkan99/alt-right-filter-list/issues
 ! License: https://github.com/lukkan99/alt-right-filter-list/blob/master/LICENSE
@@ -17,6 +17,9 @@
 ||oxwugzccvk3dk6tj.onion^$important
 ||samnytt.se^$important
 ||avpixlat.info^$important
+||nordfront.se^$important
+||alternativforsverige.se^$important
+||isitwetyet.com^$important
 
 # terfs: anti trans
 ||spinster.xyz^$important
