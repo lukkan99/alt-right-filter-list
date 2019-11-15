@@ -1,6 +1,6 @@
 ! Title: alt right filter list + terfs
 ! Expires: 3 days
-! Last modified: 27 October 2019
+! Last modified: 15 november 2019
 ! Homepage: https://github.com/lukkan99/alt-right-filter-list
 ! Contribute: https://github.com/lukkan99/alt-right-filter-list/issues
 ! License: https://github.com/lukkan99/alt-right-filter-list/blob/master/LICENSE
@@ -14,12 +14,15 @@
 ||dstormer6em3i4km.onion^$important
 ||8ch.net^$important
 ||8kun.net^$important
+||8kun.us^$important
+||8kun.tw^$important
 ||oxwugzccvk3dk6tj.onion^$important
 ||samnytt.se^$important
 ||avpixlat.info^$important
 ||nordfront.se^$important
 ||alternativforsverige.se^$important
 ||isitwetyet.com^$important
+||qmap.pub^$important
 
 # terfs: anti trans
 ||terfisaslur.com^$important
