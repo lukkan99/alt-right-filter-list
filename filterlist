@@ -1,6 +1,6 @@
 ! Title: alt right filter list
 ! Expires: 3 days
-! Last modified: 15 november 2019
+! Last modified: 18 november 2019
 ! Homepage: https://github.com/lukkan99/alt-right-filter-list
 ! Contribute: https://github.com/lukkan99/alt-right-filter-list/issues
 ! License: https://github.com/lukkan99/alt-right-filter-list/blob/master/LICENSE
@@ -16,6 +16,7 @@
 ||8kun.net^$important
 ||8kun.us^$important
 ||8kun.tw^$important
+||8kun.top^$important
 ||jthnx5wyvjvzsxtu.onion^$important
 ||oxwugzccvk3dk6tj.onion^$important
 ||samnytt.se^$important
