@@ -1,6 +1,6 @@
 ! Title: alt right filter list
 ! Expires: 3 days
-! Last modified: 23 november 2019
+! Last modified: 10 february 2020
 ! Homepage: https://github.com/lukkan99/alt-right-filter-list
 ! Contribute: https://github.com/lukkan99/alt-right-filter-list/issues
 ! License: https://github.com/lukkan99/alt-right-filter-list/blob/master/LICENSE
@@ -25,7 +25,7 @@
 ||alternativforsverige.se^$important
 ||isitwetyet.com^$important
 ||qmap.pub^$important
-
+||petterssonsblogg.se^$important
 
 # Hosts willing host alright sites:
 ||vdsina.ru$important
