@@ -1,6 +1,6 @@
 ! Title: alt right filter list + terfs
 ! Expires: 3 days
-! Last modified: 10 february 2020
+! Last modified: 16 february 2021
 ! Homepage: https://github.com/lukkan99/alt-right-filter-list
 ! Contribute: https://github.com/lukkan99/alt-right-filter-list/issues
 ! License: https://github.com/lukkan99/alt-right-filter-list/blob/master/LICENSE
@@ -26,13 +26,15 @@
 ||isitwetyet.com^$important
 ||qmap.pub^$important
 ||petterssonsblogg.se^$important
+||parler.com^$important
 
 # Hosts willing host alright sites:
 ||vdsina.ru$important
 ||vanwatech.com^$important
 ||vanwanet.com^$important
+||skysilk.com^$important
 
 # terfs: anti trans
 ||terfisaslur.com^$important
 ||spinster.xyz^$important
-||skysilk.com^$important
+
